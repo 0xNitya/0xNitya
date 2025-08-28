@@ -1,4 +1,4 @@
-<img src="nty.pn" width="100%"  />
+
 
 # Hello World!, I'm Nityanand , a tech learner👋🏼:
 
